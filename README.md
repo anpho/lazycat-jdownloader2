@@ -1,4 +1,6 @@
-# JDownloader2 for LazyCat Microserver.
+# JDownloader2 for LazyCat Microserver
+
+[![CI](https://github.com/anpho/lazycat-jdownloader2/actions/workflows/blank.yml/badge.svg)](https://github.com/anpho/lazycat-jdownloader2/actions/workflows/blank.yml)
 
 ### Base Image
 
